@@ -17,7 +17,7 @@
 >* 在原始图像上包裹住车道边界，用绿色色块表示
 >* 将车道线进行可视化显示，并实时计算车道曲率及车辆位置
 
-**NOTE**:关于视频流的处理请参考[Advance-Lanefinding](https://github.com/shawshany/Advance_LaneFinding)
+**NOTE**:关于视频流的处理请参考[Advance-Lanefinding]((https://github.com/shawshany/Advance_LaneFinding/blob/master/Advance-Lanefinding.ipynb))
 为了讲解方便，本部分代码，我选取了一帧来说明
 # 获取车道线的算法流程图
 
